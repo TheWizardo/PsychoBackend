@@ -1,0 +1,22 @@
+{
+    "icon": "script-text",
+    "subsubjects": [
+    {
+        "name": "analogies",
+        "display_name": "אנלוגיות",
+        "isSupported": true,
+        "icon": "menu-swap"
+    },
+    {
+        "name": "words",
+        "display_name": "מילים",
+        "isSupported": true,
+        "icon": "chat-processing-outline"
+    },
+    {
+        "name": "sentences",
+        "display_name": "השלמת משפטים",
+        "isSupported": true,
+        "icon": "autorenew"
+    }
+]}

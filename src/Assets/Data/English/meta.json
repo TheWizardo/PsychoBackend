@@ -1,0 +1,22 @@
+{
+    "icon": "alphabetical-variant",
+    "subsubjects": [
+    {
+        "name": "sentences",
+        "display_name": "השלמת משפטים",
+        "isSupported": true,
+        "icon": "progress-question"
+    },
+    {
+        "name": "restructuring",
+        "display_name": "ניסוח משפטים מחדש",
+        "isSupported": true,
+        "icon": "autorenew"
+    },
+    {
+        "name": "words",
+        "display_name": "מילים",
+        "isSupported": true,
+        "icon": "chat-processing-outline"
+    }
+]}

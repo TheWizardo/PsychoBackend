@@ -1,0 +1,167 @@
+{
+    "icon": "function-variant",
+    "subsubjects": [
+        {
+            "name": "fractions",
+            "display_name": "שברים",
+            "isSupported": true,
+            "icon": "fraction-one-half"
+        },
+        {
+            "name": "powers",
+            "display_name": "חזקות",
+            "isSupported": true,
+            "icon": "exponent"
+        },
+        {
+            "name": "expressions",
+            "display_name": "ביטויים",
+            "isSupported": true,
+            "icon": "alpha-x"
+        },
+        {
+            "name": "equations",
+            "display_name": "משוואות",
+            "isSupported": false,
+            "icon": "equal"
+        },
+        {
+            "name": "inequalities",
+            "display_name": "אי-שוויונות",
+            "isSupported": false,
+            "icon": "greater-than-or-equal"
+        },
+        {
+            "name": "shorthand_multiplication",
+            "display_name": "כפל מקוצר",
+            "isSupported": false,
+            "icon": "asterisk"
+        },
+        {
+            "name": "absolute",
+            "display_name": "ערך מוחלט",
+            "isSupported": false,
+            "icon": "align-horizontal-distribute"
+        },
+        {
+            "name": "integers",
+            "display_name": "מספרים שלמים",
+            "isSupported": false,
+            "icon": "numeric"
+        },
+        {
+            "name": "madeup",
+            "display_name": "פעולות מומצאות",
+            "isSupported": false,
+            "icon": "unicorn-variant"
+        },
+        {
+            "name": "letters",
+            "display_name": "אותיות ומספרים",
+            "isSupported": false,
+            "icon": "alpha"
+        },
+        {
+            "name": "proportions",
+            "display_name": "יחס",
+            "isSupported": false,
+            "icon": "image-size-select-small"
+        },
+        {
+            "name": "general",
+            "display_name": "בעיות כלליות",
+            "isSupported": false,
+            "icon": "shape-outline"
+        },
+        {
+            "name": "percentages",
+            "display_name": "אחוזים",
+            "isSupported": false,
+            "icon": "percent-outline"
+        },
+        {
+            "name": "movement",
+            "display_name": "תנועה",
+            "isSupported": false,
+            "icon": "car-hatchback"
+        },
+        {
+            "name": "work",
+            "display_name": "הספק",
+            "isSupported": false,
+            "icon": "alarm"
+        },
+        {
+            "name": "average",
+            "display_name": "ממוצע",
+            "isSupported": false,
+            "icon": "division"
+        },
+        {
+            "name": "overlap",
+            "display_name": "חפיפה",
+            "isSupported": false,
+            "icon": "set-center"
+        },
+        {
+            "name": "combinatorics",
+            "display_name": "צירופים",
+            "isSupported": false,
+            "icon": "abacus"
+        },
+        {
+            "name": "probability",
+            "display_name": "הסתברות",
+            "isSupported": false,
+            "icon": "dice-multiple-outline"
+        },
+        {
+            "name": "graphs",
+            "display_name": "הסקה מתרשים",
+            "isSupported": false,
+            "icon": "chart-line"
+        },
+        {
+            "name": "angles",
+            "display_name": "ישרים וזוויות",
+            "isSupported": false,
+            "icon": "angle-acute"
+        },
+        {
+            "name": "triangles",
+            "display_name": "משולשים",
+            "isSupported": false,
+            "icon": "triangle-outline"
+        },
+        {
+            "name": "squares",
+            "display_name": "מרובעים",
+            "isSupported": false,
+            "icon": "square-outline"
+        },
+        {
+            "name": "n_gons",
+            "display_name": "מצולעים",
+            "isSupported": false,
+            "icon": "hexagon-outline"
+        },
+        {
+            "name": "circles",
+            "display_name": "מעגלים",
+            "isSupported": false,
+            "icon": "circle-outline"
+        },
+        {
+            "name": "coordinates",
+            "display_name": "מערכת צירים",
+            "isSupported": false,
+            "icon": "axis-arrow"
+        },
+        {
+            "name": "3d",
+            "display_name": "תלת-מימד",
+            "isSupported": false,
+            "icon": "cube-outline"
+        }
+    ]
+}

@@ -1,0 +1,1298 @@
+[
+    {
+        "question": {
+            "text": "כילה : נשאר-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "קָרע : הוטלא",
+                "isCorrect": false
+            },
+            {
+                "text": "קָרס : הופל",
+                "isCorrect": false
+            },
+            {
+                "text": "קָטע : נמשך",
+                "isCorrect": true
+            },
+            {
+                "text": "קטם : נגדע",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "ניכוש : עשבים שוטים-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "גֵז : כשבים",
+                "isCorrect": false
+            },
+            {
+                "text": "ניפוץ : שברים",
+                "isCorrect": false
+            },
+            {
+                "text": "חיסיון : מחלות",
+                "isCorrect": false
+            },
+            {
+                "text": "פלייה : כינים",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "קשה עורף : פשרנות-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "קל דעת : פזיזות",
+                "isCorrect": false
+            },
+            {
+                "text": "קל תפיסה : הסבר",
+                "isCorrect": false
+            },
+            {
+                "text": "קשה לב : תחנונים",
+                "isCorrect": false
+            },
+            {
+                "text": "כבד פה : רהיטות",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מְסַנְוֵר : אור-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "צבעוני : צבע",
+                "isCorrect": false
+            },
+            {
+                "text": "פולשני : פלישה",
+                "isCorrect": false
+            },
+            {
+                "text": "חומרני : חומר",
+                "isCorrect": false
+            },
+            {
+                "text": "קולני : קול",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מאכלת : השחזה-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "אשפה : סילוק",
+                "isCorrect": false
+            },
+            {
+                "text": "גיטרה : כיוון",
+                "isCorrect": true
+            },
+            {
+                "text": "את : חפירה",
+                "isCorrect": false
+            },
+            {
+                "text": "מסמך : תיוק",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "להתלחש : ללחוש-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "להתנצל : למחול",
+                "isCorrect": false
+            },
+            {
+                "text": "להתראות : לראות",
+                "isCorrect": true
+            },
+            {
+                "text": "להתמודד : לנצח",
+                "isCorrect": false
+            },
+            {
+                "text": "להתכעס : לכעוס",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "רִיק : חומר-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "צחנה : ריח",
+                "isCorrect": false
+            },
+            {
+                "text": "רפיון : חולשה",
+                "isCorrect": false
+            },
+            {
+                "text": "ודאות : ספק",
+                "isCorrect": true
+            },
+            {
+                "text": "בידוד : קור",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מוחנף : החניף-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מוזהר : הִתרה",
+                "isCorrect": true
+            },
+            {
+                "text": "מסוכן : הסתכן",
+                "isCorrect": false
+            },
+            {
+                "text": "מנומנם : נִמנם",
+                "isCorrect": false
+            },
+            {
+                "text": "מסוקרן : התעניין",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "פח : ללכוד-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "לחם : לפרוס",
+                "isCorrect": false
+            },
+            {
+                "text": "בצק : ללוש",
+                "isCorrect": false
+            },
+            {
+                "text": "מערוך : לרדד",
+                "isCorrect": true
+            },
+            {
+                "text": "כיריים : להדליק",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "רחץ : התרחץ-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "הרחיק : התרחק",
+                "isCorrect": true
+            },
+            {
+                "text": "חיבק : התחבק",
+                "isCorrect": false
+            },
+            {
+                "text": "בישל : התבשל",
+                "isCorrect": false
+            },
+            {
+                "text": "ביקש : התבקש",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "אדוני : כבוד-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "אנא : בקשה",
+                "isCorrect": true
+            },
+            {
+                "text": "הסתלק! : פקודה",
+                "isCorrect": false
+            },
+            {
+                "text": "הס! : שתיקה",
+                "isCorrect": false
+            },
+            {
+                "text": "האִם : תשובה",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "משובץ : מִשבצת-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מפויח : פיח",
+                "isCorrect": false
+            },
+            {
+                "text": "מחודד : חוד",
+                "isCorrect": false
+            },
+            {
+                "text": "מנומר : נמר",
+                "isCorrect": false
+            },
+            {
+                "text": "מרובד : רובד",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "לדרבן : להתאמץ-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "להסית : להניא",
+                "isCorrect": false
+            },
+            {
+                "text": "לדובב : לדבר",
+                "isCorrect": true
+            },
+            {
+                "text": "לתכנן : לאלתר",
+                "isCorrect": false
+            },
+            {
+                "text": "להמרות : לציית",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מִפלס : לִגאות-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "תעריף : להתייקר",
+                "isCorrect": true
+            },
+            {
+                "text": "פסגה : להעפיל",
+                "isCorrect": false
+            },
+            {
+                "text": "מזון : לשבוע",
+                "isCorrect": false
+            },
+            {
+                "text": "כיווּן : להצפין",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "הרף עין : פרק זמן-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "חג : מועד",
+                "isCorrect": false
+            },
+            {
+                "text": "נֶבט : שורש",
+                "isCorrect": false
+            },
+            {
+                "text": "אות : מילה",
+                "isCorrect": false
+            },
+            {
+                "text": "זרזיף : זֶרם",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "למאוס : קָץ-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "לרדוף : נס",
+                "isCorrect": false
+            },
+            {
+                "text": "לזוז : מש",
+                "isCorrect": true
+            },
+            {
+                "text": "לצלול : צף",
+                "isCorrect": false
+            },
+            {
+                "text": "לאבד : תר",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "תסכית : אוזן-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "ציור : עין",
+                "isCorrect": true
+            },
+            {
+                "text": "קביים : רגל",
+                "isCorrect": false
+            },
+            {
+                "text": "נזם : אף",
+                "isCorrect": false
+            },
+            {
+                "text": "ריקוד : גוף",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "דבש : לרדות-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "פרי : לסחוט",
+                "isCorrect": false
+            },
+            {
+                "text": "חלב : לחלוב",
+                "isCorrect": true
+            },
+            {
+                "text": "לחם : לאפות",
+                "isCorrect": false
+            },
+            {
+                "text": "ממרח : למרוח",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "לפקוד : ביקור-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "לחלום : שינה",
+                "isCorrect": false
+            },
+            {
+                "text": "לשנן : שיכחה",
+                "isCorrect": false
+            },
+            {
+                "text": "לאמוד : הערכה",
+                "isCorrect": true
+            },
+            {
+                "text": "לנסוק : נחיתה",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "אריח : רצפה-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "חרוז : מחרוזת",
+                "isCorrect": true
+            },
+            {
+                "text": "גרגיר : פירור",
+                "isCorrect": false
+            },
+            {
+                "text": "משקוף : דלת",
+                "isCorrect": false
+            },
+            {
+                "text": "דיו : קסת",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מכאוב : מדווה-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "עוגה : נחתום",
+                "isCorrect": false
+            },
+            {
+                "text": "נאום : קתדרה",
+                "isCorrect": false
+            },
+            {
+                "text": "להבה : קמין",
+                "isCorrect": false
+            },
+            {
+                "text": "קמצן : כילי",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "תער : זָקָן-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מתבן : תבן",
+                "isCorrect": false
+            },
+            {
+                "text": "מזרק : זריקה",
+                "isCorrect": true
+            },
+            {
+                "text": "מזמרה : זמורה",
+                "isCorrect": false
+            },
+            {
+                "text": "מסור : נסורת",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "חבוּט : מקוריות-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "עניו : יוהרה",
+                "isCorrect": false
+            },
+            {
+                "text": "נחוש : החלטיות",
+                "isCorrect": false
+            },
+            {
+                "text": "מחושל : התמודדות",
+                "isCorrect": false
+            },
+            {
+                "text": "תדיר : שכיחות",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "עוגן : נסחף-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מִכסה : נסגר",
+                "isCorrect": false
+            },
+            {
+                "text": "גֵץ : נשרף",
+                "isCorrect": false
+            },
+            {
+                "text": "פרי : נקטף",
+                "isCorrect": false
+            },
+            {
+                "text": "אצבעון : נדקר",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "לדחוס : צפיפות-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "להבין : מסר",
+                "isCorrect": false
+            },
+            {
+                "text": "להאט : מהירות",
+                "isCorrect": false
+            },
+            {
+                "text": "לשקול : משקל",
+                "isCorrect": false
+            },
+            {
+                "text": "להשביח : איכות",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מולאם : פרטי-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מוצפן : חבוי",
+                "isCorrect": false
+            },
+            {
+                "text": "מאולף : פראי",
+                "isCorrect": true
+            },
+            {
+                "text": "חשוד : אשם",
+                "isCorrect": false
+            },
+            {
+                "text": "מורכן : שפוף",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "התבשר : בשורה-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "התכתב : מכתב",
+                "isCorrect": false
+            },
+            {
+                "text": "התנבא : נבואה",
+                "isCorrect": false
+            },
+            {
+                "text": "הצטווה : ציווי",
+                "isCorrect": true
+            },
+            {
+                "text": "התלוצץ : הלצה",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "צג : התבונן-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "רמקול : להסכית",
+                "isCorrect": true
+            },
+            {
+                "text": "מזגן : לקרר",
+                "isCorrect": false
+            },
+            {
+                "text": "זרקור : להאפיל",
+                "isCorrect": false
+            },
+            {
+                "text": "מדפסת : להקליד",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מרשי : פרקליטו-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "עמיתי : יריבו",
+                "isCorrect": false
+            },
+            {
+                "text": "מפקדי : מפקדו",
+                "isCorrect": false
+            },
+            {
+                "text": "סבי : נכדו",
+                "isCorrect": true
+            },
+            {
+                "text": "מעבידי : מעסיקו",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "שופט : זכאי-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "שומר סף : נכנס",
+                "isCorrect": true
+            },
+            {
+                "text": "דוור : נמען",
+                "isCorrect": false
+            },
+            {
+                "text": "סדרן : צופה",
+                "isCorrect": false
+            },
+            {
+                "text": "רועה צאן : מוביל",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מכונף : כנפיים-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מרופד : ריפוד",
+                "isCorrect": true
+            },
+            {
+                "text": "משומש : שימוש",
+                "isCorrect": false
+            },
+            {
+                "text": "מנוסר : מסוׄר",
+                "isCorrect": false
+            },
+            {
+                "text": "מחוטא : חיטוי",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "טרוניה : התאונן-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "קושיה : השכיב",
+                "isCorrect": false
+            },
+            {
+                "text": "הסכמה : מיאן",
+                "isCorrect": false
+            },
+            {
+                "text": "אמתלה : תירוץ",
+                "isCorrect": true
+            },
+            {
+                "text": "האשמה : כפר",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מזעזע : פלצות-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מיוחס : ייחוס",
+                "isCorrect": false
+            },
+            {
+                "text": "מגוחך : גיחוך",
+                "isCorrect": true
+            },
+            {
+                "text": "מטופח : טיפוח",
+                "isCorrect": false
+            },
+            {
+                "text": "מאופק : איפוק",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "נזוף : הוכיח-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "בטוח : שִׁיער",
+                "isCorrect": false
+            },
+            {
+                "text": "יבש : ניחַר",
+                "isCorrect": false
+            },
+            {
+                "text": "סתום : פירש",
+                "isCorrect": false
+            },
+            {
+                "text": "שבור : ניתֵץ",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מסוכן : טומן ראשו בחול-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מוּכר : מתנכר",
+                "isCorrect": true
+            },
+            {
+                "text": "יקר : מתייקר",
+                "isCorrect": false
+            },
+            {
+                "text": "רועש : משתיק",
+                "isCorrect": false
+            },
+            {
+                "text": "בוער : מלבה",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מרוהט : שידה-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מסורק : שֵׂער",
+                "isCorrect": false
+            },
+            {
+                "text": "מיוער : אלון",
+                "isCorrect": true
+            },
+            {
+                "text": "מגוהץ : קמט",
+                "isCorrect": false
+            },
+            {
+                "text": "מושחז : סכין",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "לבצור : יין-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "לקושש : מדורה",
+                "isCorrect": true
+            },
+            {
+                "text": "להתיר : חבל",
+                "isCorrect": false
+            },
+            {
+                "text": "לאכול : רקיק",
+                "isCorrect": false
+            },
+            {
+                "text": "להשרות : מים",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "אמיר : אילן-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מצוק : הר",
+                "isCorrect": false
+            },
+            {
+                "text": "פסגה : הר",
+                "isCorrect": true
+            },
+            {
+                "text": "גבעה : הר",
+                "isCorrect": false
+            },
+            {
+                "text": "תל : הר",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "נפל למשכב : ריפא-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "ציפה : בושש",
+                "isCorrect": false
+            },
+            {
+                "text": "הֵפר : קִיים",
+                "isCorrect": false
+            },
+            {
+                "text": "ניצת : כיבה",
+                "isCorrect": true
+            },
+            {
+                "text": "שינן : שכח",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "זהב : מטיל זהב-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "כביסה : מקל כביסה",
+                "isCorrect": false
+            },
+            {
+                "text": "צמר : כובע צמר",
+                "isCorrect": false
+            },
+            {
+                "text": "גבינה : חריץ גבינה",
+                "isCorrect": true
+            },
+            {
+                "text": "נייר : עיסת נייר",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "ריפא את ידיו : מיואש-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "חמד לצון : מבדח",
+                "isCorrect": false
+            },
+            {
+                "text": "גלה את אוזנו : יודע",
+                "isCorrect": true
+            },
+            {
+                "text": "כבש את יוצרו : מאופק",
+                "isCorrect": false
+            },
+            {
+                "text": "הכביד לבו : מתחנן",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מובן מאליו : להסביר-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מרשים : להתפעל",
+                "isCorrect": false
+            },
+            {
+                "text": "בריא : לאשפז",
+                "isCorrect": true
+            },
+            {
+                "text": "נואש : לעודד",
+                "isCorrect": false
+            },
+            {
+                "text": "עקשן : לוותר",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "נותר : השאיר-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "נלווה : הלך",
+                "isCorrect": false
+            },
+            {
+                "text": "נצרד : צעק",
+                "isCorrect": false
+            },
+            {
+                "text": "הוזז : הסיט",
+                "isCorrect": true
+            },
+            {
+                "text": "פעל : הניא",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "לסוכך : חשוּף-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "למהול : מרוכז",
+                "isCorrect": true
+            },
+            {
+                "text": "לטרוף : מעורבב",
+                "isCorrect": false
+            },
+            {
+                "text": "ללוש : מרודד",
+                "isCorrect": false
+            },
+            {
+                "text": "לחלוט : מורתח",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "אצטבה : על גבי-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "דלת : בעד",
+                "isCorrect": false
+            },
+            {
+                "text": "קופסה : בתוך",
+                "isCorrect": true
+            },
+            {
+                "text": "גדר : סביב",
+                "isCorrect": false
+            },
+            {
+                "text": "מפתן : בחוץ",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "משלח יד : הסבה מקצועית-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "הבנה : תרגום",
+                "isCorrect": false
+            },
+            {
+                "text": "נכס : הפקעה",
+                "isCorrect": false
+            },
+            {
+                "text": "מקום : העתקה",
+                "isCorrect": true
+            },
+            {
+                "text": "תקווה : התבדות",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "אסיר : כֶּלא-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "בישל : מטבח",
+                "isCorrect": false
+            },
+            {
+                "text": "הִשרה : נוזל",
+                "isCorrect": true
+            },
+            {
+                "text": "הבריח : מנעול",
+                "isCorrect": false
+            },
+            {
+                "text": "ליפף : חבל",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "מחוספס : בליטה-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "מרוסק : רסק",
+                "isCorrect": false
+            },
+            {
+                "text": "מושרה : מים",
+                "isCorrect": false
+            },
+            {
+                "text": "מיוער : עץ",
+                "isCorrect": true
+            },
+            {
+                "text": "מאוקלם : אקלים",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "כְּרך : עיר-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "הד : קול",
+                "isCorrect": false
+            },
+            {
+                "text": "רצפה : אריח",
+                "isCorrect": false
+            },
+            {
+                "text": "נחשול : גל",
+                "isCorrect": true
+            },
+            {
+                "text": "אי : ים",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "הִשלָה : תקוות שווא-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "הפציר : בקשה",
+                "isCorrect": false
+            },
+            {
+                "text": "הפקיע : בעלות",
+                "isCorrect": false
+            },
+            {
+                "text": "הכעיס : רֺגֶז",
+                "isCorrect": true
+            },
+            {
+                "text": "הקשיב : שמיעה",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "להתרות : להימנע-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "להשעות : לפטר",
+                "isCorrect": false
+            },
+            {
+                "text": "להמריד : להתקומם",
+                "isCorrect": true
+            },
+            {
+                "text": "לִרצות : להתאפק",
+                "isCorrect": false
+            },
+            {
+                "text": "לחכות : לבושש",
+                "isCorrect": false
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "גִלעון : פרי-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "רדייה : דבש",
+                "isCorrect": false
+            },
+            {
+                "text": "הלחמה : מתכת",
+                "isCorrect": false
+            },
+            {
+                "text": "אפייה : עוגה",
+                "isCorrect": false
+            },
+            {
+                "text": "התפלה : מים",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "ניידות : תנועה-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "ארעיות : זמן",
+                "isCorrect": false
+            },
+            {
+                "text": "איום : הרתעה",
+                "isCorrect": false
+            },
+            {
+                "text": "שינון : זיכרון",
+                "isCorrect": false
+            },
+            {
+                "text": "עמידות : הישרדות",
+                "isCorrect": true
+            }
+        ]
+    },
+    {
+        "question": {
+            "text": "בבבבבבבב : אאאאאאא-",
+            "given": null
+        },
+        "options": [
+            {
+                "text": "בבבבבבב : אאאאאאאאא",
+                "isCorrect": false
+            },
+            {
+                "text": "בבבבבבב : אאאאאאאאא",
+                "isCorrect": false
+            },
+            {
+                "text": "בבבבבבב : אאאאאאאאא",
+                "isCorrect": false
+            },
+            {
+                "text": "בבבבבבב : אאאאאאאאא",
+                "isCorrect": false
+            }
+        ]
+    }
+]
